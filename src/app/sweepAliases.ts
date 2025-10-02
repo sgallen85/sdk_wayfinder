@@ -28,8 +28,15 @@ const MatterportChicago: SweepAlias = {
    "58aed27956224b6cb5b1d9e29cea9f87": "Putting Green"
 }
 
+const GPI: SweepAlias = {
+  "s2wb6w4ubt4az5w6dskhdqiab": "Turn-Up Controls",
+  "ff56dea1f04c4ab08d2121d805cf9be2": "MCC",
+  "857ceb1a450d46099b6b9c66f81bd644": "Basement",
+}
+
 export const sweepAliases: any = {
   "GycExKiYVFp": robinsonHall,
   "JYz9SNonEqa": scu,
   "6gR9HhhJJTc": MatterportChicago
+  ""5zrTVSLfpMw": GPI
 }
