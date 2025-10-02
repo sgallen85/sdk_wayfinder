@@ -33,6 +33,5 @@ const GPI: SweepAlias = {
 export const sweepAliases: any = {
   "GycExKiYVFp": robinsonHall,
   "JYz9SNonEqa": scu,
-  "6gR9HhhJJTc": MatterportChicago,
   "5zrTVSLfpMw": GPI,
 }
